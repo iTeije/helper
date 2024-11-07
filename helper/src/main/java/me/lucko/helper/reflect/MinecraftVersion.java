@@ -50,12 +50,12 @@ public final class MinecraftVersion implements Comparable<MinecraftVersion> {
     /**
      * The newest known version of Minecraft
      */
-    private static final String NEWEST_MINECRAFT_VERSION = "1.20.1";
+    private static final String NEWEST_MINECRAFT_VERSION = "1.21.3";
 
     /**
      * The date (with ISO 8601 or YYYY-MM-DD) when the most recent version was released.
      */
-    private static final String MINECRAFT_LAST_RELEASE_DATE = "2023-06-07";
+    private static final String MINECRAFT_LAST_RELEASE_DATE = "2024-10-23";
 
     /**
      * Gets the {@link MinecraftVersion} of the runtime server.
